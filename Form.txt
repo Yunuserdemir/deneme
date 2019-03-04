@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>form Ã¶rneÄŸi</title>
+	<title>form örneði</title>
 </head>
 <body>
 	<form method="post" action="https://www.w3schools.com">
@@ -23,9 +23,9 @@
 		<input type="color" name="favcolor"><br><br><br>
 
 
-		Dosya SeÃ§iniz:<input type="file" name="myfile"><br>
-		<input type="button" value="TÄ±klayÄ±nÄ±z"><br><br>
-		Saat kaÃ§?:
+		Dosya Seçiniz:<input type="file" name="myfile"><br>
+		<input type="button" value="Týklayýnýz"><br><br>
+		Saat kaç?:
 		<input type="time"><br><br>
 		<input type="submit" >
 		<input type="reset" ><br><br>

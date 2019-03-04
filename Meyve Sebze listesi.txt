@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TABLO UYGULAMASI</title>
+</head>
+<body>
+	<table border="15">
+		
+		<caption> Meyve Ve Fiyatlarý </caption>
+		<tr>
+			<th>Meyve</th>
+			<th>Fiyatý</th>
+			
+
+
+
+			</tr>
+			<tr>
+				<td>Elma</td>
+				<td>8,5</td>
+				
+
+			</tr>
+			<tr>
+				<td>Portakal</td>
+				<td>9,7</td>
+				
+			</tr>
+            <tr>
+            <td>Ayva</td>
+            <td>25,5</td>
+            
+            </tr>
+            <tr>
+            	<td>Çilek</td>
+            	<td>45,5</td>
+            </tr>
+            <tr>
+            	<td>Nar </td>
+            	<td>12,5</td>
+            </tr>
+            <tr>
+            	<td>Kivi</td>
+            	<td>23,75</td>
+            </tr>
+            
+            
+            </table>
+</body>
+</html>
